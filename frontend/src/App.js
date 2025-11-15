@@ -59,46 +59,46 @@ const App = () => {
         )}
         <div className="flex-grow">
           <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/company" element={<Company />} />
-            <Route path="/service" element={<Service />} />
-            <Route path="/project" element={<Project />} />
-            <Route path="/technology" element={<Technology />} />
-            <Route path="/career" element={<Career />} />
-            <Route path="/event" element={<Event />} />
-            <Route path="/domain" element={<Domain />} />
-            <Route path="/hosting" element={<Hosting />} />
-            <Route path="/login" element={<Login />} />
-            <Route path="/aboutus" element={<Aboutus />} />
-            <Route path="/contactus" element={<Contactus />} />
-            <Route path="/web-service" element={<WebService />} />
-            <Route path="/mobile-service" element={<MobileService />} />
-            <Route path="/custom-service" element={<CustomService />} />
-            <Route path="/devops-service" element={<DevopsService />} />
-            <Route path="/cloud-service" element={<CloudService />} />
-            <Route path="/ai-service" element={<AiService />} />
+            <Route path="/Phoenix-Soft-Solutions/" element={<Home />} />
+            <Route path="/Phoenix-Soft-Solutions/company" element={<Company />} />
+            <Route path="/Phoenix-Soft-Solutions/service" element={<Service />} />
+            <Route path="/Phoenix-Soft-Solutions/project" element={<Project />} />
+            <Route path="/Phoenix-Soft-Solutions/technology" element={<Technology />} />
+            <Route path="/Phoenix-Soft-Solutions/career" element={<Career />} />
+            <Route path="/Phoenix-Soft-Solutions/event" element={<Event />} />
+            <Route path="/Phoenix-Soft-Solutions/domain" element={<Domain />} />
+            <Route path="/Phoenix-Soft-Solutions/hosting" element={<Hosting />} />
+            <Route path="/Phoenix-Soft-Solutions/login" element={<Login />} />
+            <Route path="/Phoenix-Soft-Solutions/aboutus" element={<Aboutus />} />
+            <Route path="/Phoenix-Soft-Solutions/contactus" element={<Contactus />} />
+            <Route path="/Phoenix-Soft-Solutions/web-service" element={<WebService />} />
+            <Route path="/Phoenix-Soft-Solutions/mobile-service" element={<MobileService />} />
+            <Route path="/Phoenix-Soft-Solutions/custom-service" element={<CustomService />} />
+            <Route path="/Phoenix-Soft-Solutions/devops-service" element={<DevopsService />} />
+            <Route path="/Phoenix-Soft-Solutions/cloud-service" element={<CloudService />} />
+            <Route path="/Phoenix-Soft-Solutions/ai-service" element={<AiService />} />
             <Route
-              path="/outsourcing-service"
+              path="Phoenix-Soft-Solutions//outsourcing-service"
               element={<OutsourcingService />}
             />
-            <Route path="/poc-service" element={<PocService />} />
-            <Route path="/qa-service" element={<QAService />} />
-            <Route path="/graphic-service" element={<GraphicService />} />
-            <Route path="/business-service" element={<BusinessService />} />
-            <Route path="/backend-service" element={<BackendService />} />
-            <Route path="/frontend-service" element={<FrontendService />} />
-            <Route path="/marketing-service" element={<MarketingService />} />
-            <Route path="/cyber-service" element={<CyberService />} />
-            <Route path="/software-service" element={<SoftwareService />} />
-            <Route path="/lk-domain" element={<LkDomain />} />
+            <Route path="/Phoenix-Soft-Solutions/poc-service" element={<PocService />} />
+            <Route path="/Phoenix-Soft-Solutions/qa-service" element={<QAService />} />
+            <Route path="/Phoenix-Soft-Solutions/graphic-service" element={<GraphicService />} />
+            <Route path="/Phoenix-Soft-Solutions/business-service" element={<BusinessService />} />
+            <Route path="/Phoenix-Soft-Solutions/backend-service" element={<BackendService />} />
+            <Route path="/Phoenix-Soft-Solutions/frontend-service" element={<FrontendService />} />
+            <Route path="/Phoenix-Soft-Solutions/marketing-service" element={<MarketingService />} />
+            <Route path="/Phoenix-Soft-Solutions/cyber-service" element={<CyberService />} />
+            <Route path="/Phoenix-Soft-Solutions/software-service" element={<SoftwareService />} />
+            <Route path="/Phoenix-Soft-Solutions/lk-domain" element={<LkDomain />} />
             <Route
-              path="/international-domain"
+              path="/Phoenix-Soft-Solutions/international-domain"
               element={<InternationalDomain />}
             />
-            <Route path="/web-hosting" element={<WebHosting />} />
-            <Route path="/cloud-hosting" element={<CloudHosting />} />
-            <Route path="/vps-hosting" element={<VPSHosting />} />
-            <Route path="/business-email-hosting" element={<BusinessEmail />} />
+            <Route path="/Phoenix-Soft-Solutions/web-hosting" element={<WebHosting />} />
+            <Route path="/Phoenix-Soft-Solutions/cloud-hosting" element={<CloudHosting />} />
+            <Route path="/Phoenix-Soft-Solutions/vps-hosting" element={<VPSHosting />} />
+            <Route path="/Phoenix-Soft-Solutions/business-email-hosting" element={<BusinessEmail />} />
             {/* Admin routes wrapped in PrivateRoute */}
             <Route
               element={
